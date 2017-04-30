@@ -1,0 +1,42 @@
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    width: 90px;
+}
+
+#header{
+    background-image: url(页眉背景的副本.jpg);
+}
+#header h2{
+    text-align: center;
+}
+
+#section{
+    margin-left:auto;
+    margin-right:auto;
+    width:62%;
+}
+#sectionImg1{
+    background-image: url(博文1的副本.jpg);
+}
+#sectionImg2{
+    background-image: url(博文2的副本.jpg);
+}
+#sectionImg3{
+    background-image: url(博文3的副本.jpg);
+}
+#sectionImg4{
+    background-image: url(博文4的副本.jpg);
+}
+#section span{color: #7f7f7f}
+
+#footer{
+    background-color:#363636;
+}
+#footer h2{color: white}
